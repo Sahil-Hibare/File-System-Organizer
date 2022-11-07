@@ -3,7 +3,7 @@ This file System Organizer project have some cool fetaures
 
 1. Organize
   This feature organize your directory based on the file extension
-which helps you in finding your required file easily
+which helps you in finding your required file easily.
 this command take directory path which needs to be organized as a input
 
 2. Tree
